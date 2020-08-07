@@ -1,5 +1,6 @@
 package com.equester.capstoneproject.model;
-public enum  AuthProvider {
+
+public enum AuthProvider {
     local,
     facebook,
     google,

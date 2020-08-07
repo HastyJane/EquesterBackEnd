@@ -5,7 +5,7 @@ import com.sun.istack.NotNull;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;
-import java.security.AuthProvider;
+
 
 
 @Entity
@@ -102,6 +102,4 @@ public class User {
         this.providerId = providerId;
     }
 
-    public void setProvider(com.equester.capstoneproject.model.AuthProvider valueOf) {
-    }
 }
