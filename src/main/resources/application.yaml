@@ -36,7 +36,7 @@ spring:
           github:
             client-id: c91b2237889b34d8c5fd
             client-secret: 5e221ded55f9f896525acedb7bac9f5a6d648291
-            redirectUri: "https://localhost:3000/oauth2/callback/github"
+            redirectUri: "http://localhost:3000/oauth2/callback/github"
             scope:
               - user:email
               - read:user
