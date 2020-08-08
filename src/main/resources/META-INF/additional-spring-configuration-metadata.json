@@ -4,5 +4,10 @@
       "name": "app.oauth2.authorizedRedirectUris",
       "type": "java.lang.String",
       "description": "Description for app.oauth2.authorizedRedirectUris."
-  }
-] }
+    },
+    {
+      "name": "spring.jpa.hibernate.naming-strategy",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.naming-strategy."
+    }
+  ] }

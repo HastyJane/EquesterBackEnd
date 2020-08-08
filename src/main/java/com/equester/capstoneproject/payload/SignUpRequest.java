@@ -14,7 +14,7 @@ public class SignUpRequest {
     @NotBlank
     private String password;
 
-    // Getters and Setters (Omitted for brevity)
+    // Getters and Setters
 
 
     public String getName() {
