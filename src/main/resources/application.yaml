@@ -22,7 +22,7 @@ spring:
           google:
             clientId: 973836910297-lmqvdeu9r7gujlfs4um9c9mm8t2i5iau.apps.googleusercontent.com
             clientSecret: -VhLfRXa1A8k6VoFFulyWa7A
-            redirectUri: "https://localhost:3000/oauth2/callback/google"
+            redirectUri: "http://localhost:3000/oauth2/callback/google"
             scope:
               - email
               - profile
